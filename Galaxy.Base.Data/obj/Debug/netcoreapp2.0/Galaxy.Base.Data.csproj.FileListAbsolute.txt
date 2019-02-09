@@ -1,0 +1,12 @@
+C:\Users\mojta\source\repos\Galaxy\Galaxy.Base.Data\bin\Debug\netcoreapp2.0\Galaxy.Base.Data.deps.json
+C:\Users\mojta\source\repos\Galaxy\Galaxy.Base.Data\bin\Debug\netcoreapp2.0\Galaxy.Base.Data.dll
+C:\Users\mojta\source\repos\Galaxy\Galaxy.Base.Data\bin\Debug\netcoreapp2.0\Galaxy.Base.Data.pdb
+C:\Users\mojta\source\repos\Galaxy\Galaxy.Base.Data\bin\Debug\netcoreapp2.0\Galaxy.Base.dll
+C:\Users\mojta\source\repos\Galaxy\Galaxy.Base.Data\bin\Debug\netcoreapp2.0\Galaxy.Base.pdb
+C:\Users\mojta\source\repos\Galaxy\Galaxy.Base.Data\obj\Debug\netcoreapp2.0\Galaxy.Base.Data.csprojAssemblyReference.cache
+C:\Users\mojta\source\repos\Galaxy\Galaxy.Base.Data\obj\Debug\netcoreapp2.0\Galaxy.Base.Data.csproj.CoreCompileInputs.cache
+C:\Users\mojta\source\repos\Galaxy\Galaxy.Base.Data\obj\Debug\netcoreapp2.0\Galaxy.Base.Data.AssemblyInfoInputs.cache
+C:\Users\mojta\source\repos\Galaxy\Galaxy.Base.Data\obj\Debug\netcoreapp2.0\Galaxy.Base.Data.AssemblyInfo.cs
+C:\Users\mojta\source\repos\Galaxy\Galaxy.Base.Data\obj\Debug\netcoreapp2.0\Galaxy.Base.Data.csproj.CopyComplete
+C:\Users\mojta\source\repos\Galaxy\Galaxy.Base.Data\obj\Debug\netcoreapp2.0\Galaxy.Base.Data.dll
+C:\Users\mojta\source\repos\Galaxy\Galaxy.Base.Data\obj\Debug\netcoreapp2.0\Galaxy.Base.Data.pdb
