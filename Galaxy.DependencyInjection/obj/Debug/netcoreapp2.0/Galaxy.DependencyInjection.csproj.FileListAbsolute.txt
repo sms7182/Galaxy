@@ -1,0 +1,14 @@
+C:\Users\mojta\source\repos\Galaxy\Galaxy.DependencyInjection\bin\Debug\netcoreapp2.0\Galaxy.DependencyInjection.deps.json
+C:\Users\mojta\source\repos\Galaxy\Galaxy.DependencyInjection\bin\Debug\netcoreapp2.0\Galaxy.DependencyInjection.dll
+C:\Users\mojta\source\repos\Galaxy\Galaxy.DependencyInjection\bin\Debug\netcoreapp2.0\Galaxy.DependencyInjection.pdb
+C:\Users\mojta\source\repos\Galaxy\Galaxy.DependencyInjection\obj\Debug\netcoreapp2.0\Galaxy.DependencyInjection.csproj.CoreCompileInputs.cache
+C:\Users\mojta\source\repos\Galaxy\Galaxy.DependencyInjection\obj\Debug\netcoreapp2.0\Galaxy.DependencyInjection.AssemblyInfoInputs.cache
+C:\Users\mojta\source\repos\Galaxy\Galaxy.DependencyInjection\obj\Debug\netcoreapp2.0\Galaxy.DependencyInjection.AssemblyInfo.cs
+C:\Users\mojta\source\repos\Galaxy\Galaxy.DependencyInjection\obj\Debug\netcoreapp2.0\Galaxy.DependencyInjection.dll
+C:\Users\mojta\source\repos\Galaxy\Galaxy.DependencyInjection\obj\Debug\netcoreapp2.0\Galaxy.DependencyInjection.pdb
+C:\Users\mojta\source\repos\Galaxy\Galaxy.DependencyInjection\bin\Debug\netcoreapp2.0\Galaxy.Base.Data.dll
+C:\Users\mojta\source\repos\Galaxy\Galaxy.DependencyInjection\bin\Debug\netcoreapp2.0\Galaxy.Base.dll
+C:\Users\mojta\source\repos\Galaxy\Galaxy.DependencyInjection\bin\Debug\netcoreapp2.0\Galaxy.Base.Data.pdb
+C:\Users\mojta\source\repos\Galaxy\Galaxy.DependencyInjection\bin\Debug\netcoreapp2.0\Galaxy.Base.pdb
+C:\Users\mojta\source\repos\Galaxy\Galaxy.DependencyInjection\obj\Debug\netcoreapp2.0\Galaxy.DependencyInjection.csprojAssemblyReference.cache
+C:\Users\mojta\source\repos\Galaxy\Galaxy.DependencyInjection\obj\Debug\netcoreapp2.0\Galaxy.DependencyInjection.csproj.CopyComplete
