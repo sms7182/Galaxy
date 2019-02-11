@@ -1,0 +1,9 @@
+C:\Users\mojta\source\repos\Galaxy\Galaxy.Base\bin\Debug\netcoreapp2.0\Galaxy.Base.deps.json
+C:\Users\mojta\source\repos\Galaxy\Galaxy.Base\bin\Debug\netcoreapp2.0\Galaxy.Base.dll
+C:\Users\mojta\source\repos\Galaxy\Galaxy.Base\bin\Debug\netcoreapp2.0\Galaxy.Base.pdb
+C:\Users\mojta\source\repos\Galaxy\Galaxy.Base\obj\Debug\netcoreapp2.0\Galaxy.Base.csprojAssemblyReference.cache
+C:\Users\mojta\source\repos\Galaxy\Galaxy.Base\obj\Debug\netcoreapp2.0\Galaxy.Base.csproj.CoreCompileInputs.cache
+C:\Users\mojta\source\repos\Galaxy\Galaxy.Base\obj\Debug\netcoreapp2.0\Galaxy.Base.AssemblyInfoInputs.cache
+C:\Users\mojta\source\repos\Galaxy\Galaxy.Base\obj\Debug\netcoreapp2.0\Galaxy.Base.AssemblyInfo.cs
+C:\Users\mojta\source\repos\Galaxy\Galaxy.Base\obj\Debug\netcoreapp2.0\Galaxy.Base.dll
+C:\Users\mojta\source\repos\Galaxy\Galaxy.Base\obj\Debug\netcoreapp2.0\Galaxy.Base.pdb
