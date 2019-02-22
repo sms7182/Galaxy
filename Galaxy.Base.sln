@@ -11,9 +11,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Galaxy.TestConsole.App", "G
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Galaxy.DependencyInjection", "Galaxy.DependencyInjection\Galaxy.DependencyInjection.csproj", "{764A341D-E79C-409A-912F-3C28E42F5BAF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sky.Business", "Sky.Business\Sky.Business.csproj", "{ECC33237-5F00-4901-8B49-9215F08392D7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sky.Business", "Sky.Business\Sky.Business.csproj", "{ECC33237-5F00-4901-8B49-9215F08392D7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sky.Business.Data", "Sky.Business.Data\Sky.Business.Data.csproj", "{C8D4CF64-F971-4ACF-B8B3-3F2537872FED}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sky.Business.Data", "Sky.Business.Data\Sky.Business.Data.csproj", "{C8D4CF64-F971-4ACF-B8B3-3F2537872FED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Univers.Business", "Univers.Business\Univers.Business.csproj", "{E2FD2C50-2E3A-4676-9622-7F140A84AA65}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{C8D4CF64-F971-4ACF-B8B3-3F2537872FED}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C8D4CF64-F971-4ACF-B8B3-3F2537872FED}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C8D4CF64-F971-4ACF-B8B3-3F2537872FED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E2FD2C50-2E3A-4676-9622-7F140A84AA65}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E2FD2C50-2E3A-4676-9622-7F140A84AA65}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E2FD2C50-2E3A-4676-9622-7F140A84AA65}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E2FD2C50-2E3A-4676-9622-7F140A84AA65}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
