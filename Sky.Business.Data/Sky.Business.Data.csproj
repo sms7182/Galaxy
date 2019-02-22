@@ -5,13 +5,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="Castle.Windsor" Version="5.0.0" />
-  </ItemGroup>
-
-  <ItemGroup>
     <ProjectReference Include="..\Galaxy.Base.Data\Galaxy.Base.Data.csproj" />
-    <ProjectReference Include="..\Galaxy.Base\Galaxy.Base.csproj" />
-    <ProjectReference Include="..\Sky.Business.Data\Sky.Business.Data.csproj" />
     <ProjectReference Include="..\Sky.Business\Sky.Business.csproj" />
   </ItemGroup>
 
