@@ -5,7 +5,10 @@ using Galaxy.Base;
 
 namespace Sky.Business
 {
-   public interface IHotelInformationRepository:IBusinessObjectRepository
+   public interface IHotelInformationRepository :IBusinessObjectRepository<HotelInformation>
     {
     }
+   public interface IHotelRepository : IBusinessObjectRepository<Hotel>
+   {
+   }
 }
